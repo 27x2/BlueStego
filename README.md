@@ -4,10 +4,10 @@ The program write for `encrypt a message into a 24/32 bits image`, for detail yo
 
 ## Packages Required ##
 
-* [Python 2] (https://www.python.org/)
+* [Python 2](https://www.python.org/)
   * `sudo apt isntall python2`
 
-* [Pillow python] (https://pillow.readthedocs.io/en/stable/)
+* [Pillow python](https://pillow.readthedocs.io/en/stable/)
   * `sudo pip isntall pillow`
   
  ## How to run ##
