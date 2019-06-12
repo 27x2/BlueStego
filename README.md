@@ -22,7 +22,7 @@ python blustego.py -i <image path>
 ```
 After it chose functions on the menu:
 
-``````
+```
 1 for encrypt message into image
 2 for decrypt message in image
 ```
