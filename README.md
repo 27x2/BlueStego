@@ -18,7 +18,7 @@ git clone https://github.com/BinhHuynh2727/BlueStego.git
 ```
 Usage:
 ```
-python blustego.py -i <image path>
+python bluestego.py -i <image path>
 ```
 After it chose functions on the menu:
 
